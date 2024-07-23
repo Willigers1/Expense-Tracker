@@ -31,10 +31,4 @@ After starting the application, you'll be prompted to sign up or log in. Follow 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Contact
-
-If you have any questions or need further assistance, please contact us at support@expensetracker.com.
